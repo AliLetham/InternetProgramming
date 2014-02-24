@@ -20,7 +20,7 @@ Delete your own messages
 
 you can not access any part unless you are logged in. 
 
-In the laanguage of my Site:
+In the language of my site:
 Reading = Following
 Letters = Tweets
 Being Read = Being Followed
