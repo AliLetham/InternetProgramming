@@ -1,0 +1,70 @@
+@CHARSET "ISO-8859-1";
+
+
+body
+{
+
+background-color: #F0F2EB;
+}
+h1
+{
+color:#FF4242;
+text-align:center;
+margin-top:50px; 
+font-size:50px;
+
+}
+
+ul
+{
+padding:2px;
+background-color:#D4EE5E;
+text-align:center;
+font-size:20px;
+}
+li
+{
+	
+display:inline;
+margin-right:20px;
+}
+form
+{
+font-size:20px;
+text-align:center;
+margin-top:10px;
+}
+#usernameDiv
+{
+}
+#passwordDiv
+{
+	margin-top:10px;
+}
+#LogInButton
+{
+	margin-top:10px;
+width: 10em;
+height: 2em;	
+}
+
+#usersLetters
+{
+background-color: #E1EDB9;
+font-size:20px;
+text-align:center;
+border-style:solid;
+border-width:1px;
+border-color:#D4EE5E;
+margin-bottom:20px;
+width: 800px;
+height:50px;
+  margin-left: auto ;
+  margin-right: auto ;
+}
+a:link {text-decoration:none;}
+a:visited {text-decoration:none;}
+a:hover {text-decoration:underline;}
+a:active {text-decoration:none;}
+
+
